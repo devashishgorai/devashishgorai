@@ -66,13 +66,20 @@ Currently pursuing my journey in engineering, I focus on building scalable syste
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devashishofficial/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://leetcode.com/u/devashishofficial/">
+    <img src="https://img.shields.io/badge/LeetCode-4169E1?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/devashishofficial/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/devashish_iem/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:devashishgorai10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4169E1?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:0B1E3F&height=120&section=footer"/>
