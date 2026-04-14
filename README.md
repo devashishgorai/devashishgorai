@@ -22,10 +22,9 @@
 
 ---
 
-## 🌌 Beyond the Code
+🌌 Beyond the Code
 
-```diff
-+ I'm Devashish Gorai
+ I'm Devashish Gorai
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js" />
