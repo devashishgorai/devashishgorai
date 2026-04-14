@@ -1,16 +1,13 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">
-  <b style="font-size:40px; color:#4169E1;">
-    ⚡ Devashish Gorai ⚡
-  </b>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3F,100:4169E1&height=220&section=header&text=Devashish%20Gorai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <p align="center">
-  <b style="font-size:22px; color:#6FA8FF;">
-    AI Explorer • Full Stack Developer • Startup Builder
-  </b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=4169E1&center=true&vCenter=true&size=22&lines=Full+Stack+Developer;Startup+Builder;AI+Explorer;Building+Real+World+Projects+🚀" />
 </p>
+
 <!-- ================= GLASS CARD ================= -->
 
 <div align="center">
