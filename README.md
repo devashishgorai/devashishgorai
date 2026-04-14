@@ -20,7 +20,7 @@
 
 ---
 
-🌌 Beyond the Code
+
 ## 🌠 Beyond the Code
 
 ---
