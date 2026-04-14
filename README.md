@@ -1,13 +1,13 @@
 <!-- ================= HEADER ================= -->
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3F,100:4169E1&height=200&section=header&text=Devashish%20Gorai&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=800&color=4169E1&center=true&vCenter=true&width=600&lines=⚡+AI+Explorer;🚀+Full+Stack+Builder;🤖+Future+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4169E1&center=true&vCenter=true&lines=Full+Stack+Developer;Startup+Builder;AI+Explorer;Building+Real+World+Projects+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4169E1,100:0B1E3F&height=60&section=header&text=AI%20Explorer&fontSize=30&fontColor=ffffff&animation=blinking"/>
 </p>
-
 ---
 
 <!-- ================= GLASS CARD ================= -->
