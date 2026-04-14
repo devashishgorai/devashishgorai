@@ -21,8 +21,23 @@
 ---
 
 🌌 Beyond the Code
+## 🌠 Beyond the Code
 
- I'm Devashish Gorai
+---
+
+### 💎 I'm Devashish Gorai
+
+I'm Devashish Gorai, a passionate Full Stack Developer and startup builder, working on real-world solutions that combine technology, business, and AI.  
+
+Currently pursuing my journey in engineering, I focus on building scalable systems and bridging the gap between practical problems and smart digital solutions.
+
+---
+
+- 🔭 Current Focus: Building a POS + AI-powered system for restaurants and local businesses  
+- ⚡ Expertise: Full Stack Development (MERN), APIs, and modern web technologies  
+- 🎯 Passion: Creating impactful products, solving real-world problems, and continuous self-growth  
+
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js" />
