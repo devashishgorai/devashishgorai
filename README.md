@@ -50,8 +50,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevashishGorai&bg_color=0d1117&color=4169E1&line=4169E1&point=ffffff" />
 </p>
 
+# 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/devashishofficial/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:devashishgorai10@gmail.com">
