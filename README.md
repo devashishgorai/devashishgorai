@@ -13,20 +13,6 @@
 <div align="center">
 
 
-<i<h2 style="color:#A8C5FF;">
-  🧊 Glass Profile Card
-</h2>
-<!-- ANIMATED STATUS BADGE -->
-<p>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-4169E1?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<!-- GLOW LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4169E1,100:0B1E3F&height=3&section=header"/>
-</div>
-
-
----
-
 
 ## 🌠 Beyond the Code
 
