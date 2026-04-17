@@ -11,14 +11,14 @@
 <!-- HEADER -->
 ---
 
-## 🌌 Beyond the Code
+## My Breif Intro..
 
 
 ---
 
 ### 💎 I'm Devashish Gorai
 
-I'm Devashish Gorai, a passionate Full Stack Developer and startup builder, working on real-world solutions that combine technology, business, and AI.  
+I'm from IEM-kolkata, a passionate Full Stack Developer and startup builder, working on real-world solutions that combine technology, business, and AI.  
 
 Currently pursuing my journey in engineering, I focus on building scalable systems and bridging the gap between practical problems and smart digital solutions.
 
