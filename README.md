@@ -4,7 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3F,100:4169E1&height=220&section=header&text=Devashish%20Gorai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&color=4169E1&size=26&vCenter=true&width=600&lines=Full+Stack+Developer;Startup+Builder;AI+Explorer;Building+Real+World+Projects+🚀" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&color=4169E1&size=26&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Startup+Builder;AI+Explorer;Building+Real+World+Projects+🚀" />
+</p>
+
 
 <!-- ================= GLASS CARD ================= -->
 
