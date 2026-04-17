@@ -10,11 +10,18 @@
 
 <!-- ================= GLASS CARD ================= -->
 
-<div align="center">
+<!-- HEADER -->
 
+<h1 align="center">
 
+  <img src="https://readme-typing-svg.herokuapp.com?color=4169E1&center=true&vCenter=true&lines=DEVASHISH+GORAI;Full+Stack+Developer;Web+%2B+AI+Builder;Always+Learning+%F0%9F%9A%80" />
 
-## 🌠 Beyond the Code
+</h1>
+
+---
+
+## 🌌 Beyond the Code
+
 
 ---
 
