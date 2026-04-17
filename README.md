@@ -19,7 +19,7 @@
 
 ---
 
-### 💎 I'm Devashish Gorai
+### 👋 I'm Devashish Gorai
 
 I'm from IEM-kolkata, a passionate Full Stack Developer and startup builder, working on real-world solutions that combine technology, business, and AI.  
 
